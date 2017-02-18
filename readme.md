@@ -827,7 +827,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **End-to-end people detection in crowded scenes**
 
-![](/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg)
+![](end_to_end_people_detection_in_crowded_scenes.jpg)
 
 *   arxiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
 *   github: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
